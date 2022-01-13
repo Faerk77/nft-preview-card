@@ -61,7 +61,7 @@
     opacity: 100%;
 }
 .card__img-link:hover::after{
-    content: url(assets/img/icon-view.svg)
+    content: url(../assets/img/icon-view.svg)
 }
 .card__title{
     margin-bottom: 0;
